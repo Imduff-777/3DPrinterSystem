@@ -1,0 +1,24 @@
+{
+  "name": "3dprintersystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imduff-777/3DPrinterSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imduff-777/3DPrinterSystem/issues"
+  },
+  "homepage": "https://github.com/Imduff-777/3DPrinterSystem#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
